@@ -8,10 +8,12 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the necessary libraries including NumPy, Pandas, and StandardScaler from sklearn.preprocessing.
+2. Define linear_regression function.
+3. Begin by reading the dataset using the read_csv function from Pandas.
+4. Apply the linear_regression function to the standardized input features X1_Scaled and target variable Y1_Scaled to obtain the optimal parameters theta
+5. Prepare new data and make predictions using the trained model.
+6. Print out the predicted value obtained from the regression analysis.
 
 ## Program:
 ```
