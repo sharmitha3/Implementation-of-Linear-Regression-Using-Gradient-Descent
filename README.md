@@ -52,7 +52,7 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![image](https://github.com/sharmitha3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145974496/44ceb1cf-34d4-4c3b-ba0b-445084e33dd8)
 
 
 ## Result:
